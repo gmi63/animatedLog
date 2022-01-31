@@ -1,5 +1,5 @@
-import 'package:chiali/forgottenPass.dart';
-import 'package:chiali/register.dart';
+import 'package:animatedLog/forgottenPass.dart';
+import 'package:animatedLog/register.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:async';

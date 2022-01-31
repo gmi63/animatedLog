@@ -1,4 +1,4 @@
-import 'package:chiali/register.dart';
+import 'package:animatedLog/register.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:async';
