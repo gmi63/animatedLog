@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(chiali LANGUAGES CXX)
+project(animatedLog LANGUAGES CXX)
 
-set(BINARY_NAME "chiali")
+set(BINARY_NAME "animatedLog")
 
 cmake_policy(SET CMP0063 NEW)
 

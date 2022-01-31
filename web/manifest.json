@@ -1,6 +1,6 @@
 {
-    "name": "chiali",
-    "short_name": "chiali",
+    "name": "animatedLog",
+    "short_name": "animatedLog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

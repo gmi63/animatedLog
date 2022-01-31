@@ -1,4 +1,4 @@
-package com.example.chiali
+package com.example.animatedLog
 
 import io.flutter.embedding.android.FlutterActivity
 
